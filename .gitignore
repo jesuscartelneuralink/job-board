@@ -1,0 +1,5 @@
+board/
+keys.json
+*.key
+__pycache__/
+.venv/
